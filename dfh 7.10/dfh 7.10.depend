@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509362473 source:c:\users\unity\desktop\dilshad folder\dilshad codeblocks\dfh 7.10\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
