@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507376782 source:c:\users\unity\desktop\dilshad folder\dilshad codeblocks\sqwaa\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+

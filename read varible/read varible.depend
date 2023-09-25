@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512388931 source:c:\users\unity\desktop\dilshad folder\dilshad codeblocks\read varible\main.cpp
+	<iostream>
+	<fstream>
+
